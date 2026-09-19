@@ -7,7 +7,7 @@
 :root{
     ---lighter-Purple: hsl(260, 100%, 95%);
     ---Purple: hsl(264, 82%, 80%);
-    ---darker-Purple: hsl(263, 80%, 63%);
+    ---darker-Purple: hsl(263, 85%, 59%);
 
 /* ### Neutral */
     ---White: hsl(0, 0%, 100%);
@@ -53,6 +53,9 @@ body{
     color:var(---White);
     background-color: var(---darker-Purple);
     grid-area:purples;
+    background-image: url(../images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right 10%;
 }
 .darkgray{
     border-radius: 10px;
@@ -331,6 +334,7 @@ body {
 }
 
 .container {
+    margin-top: 4rem;
     width: 100%;
     display: grid;
     grid-template-columns: 1fr;
@@ -345,6 +349,7 @@ body {
 }
 
 .purple {
+    background-image: none;
     min-height: 300px;
 }
 
