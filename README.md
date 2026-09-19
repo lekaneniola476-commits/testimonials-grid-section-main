@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/lekaneniola476-commits/testimonials-grid-section-main)
+- Live Site URL: [live site URL](https://lekaneniola476-commits.github.io/testimonials-grid-section-main/)
 
 ## My process
 
@@ -63,7 +63,7 @@ What didn't work as well was blindly applying suggested solutions. Some approach
 
 ## Author
 
-- Website - [ENNY]()
+- Website - [ENNY](https://lekaneniola476-commits.github.io/testimonials-grid-section-main/)
 - Frontend Mentor - [@lekaneniola476-commits](https://www.frontendmentor.io/profile/lekaneniola476-commits)
 - Twitter - [@rising476](https://x.com/rising476)
 
